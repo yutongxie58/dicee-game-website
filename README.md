@@ -17,6 +17,6 @@
 [![dicee-game-website-screenshot.png](https://i.postimg.cc/Cx7LGcfL/dicee-game-website-screenshot.png)](https://postimg.cc/87FSDBHq)
 
 ## Try It Out
-Simply open the [webpage](https://your-website-url.com) in your browser to play!
+Simply open the [webpage]([https://your-website-url.com](https://yutongxie58.github.io/dicee-game-website/) in your browser to play!
 
 Have fun playing "The Dicee Game"!
