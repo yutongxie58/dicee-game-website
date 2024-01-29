@@ -18,5 +18,3 @@
 
 ## Try It Out
 Simply open the [webpage](https://yutongxie58.github.io/dicee-game-website/) in your browser to play!
-
-Have fun playing "The Dicee Game"!
