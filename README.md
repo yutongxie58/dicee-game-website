@@ -14,7 +14,7 @@
 3. Alternatively, press the corresponding keys on your keyboard to play the sounds. Each drum element is associated with a specific key, as indicated on the website.
 
 ## Screenshots
-<img src="https://i.postimg.cc/brXCrW5X/drum-kit-website-screenshot.png" width="800" alt="Drum Kit Screenshot">
+<img src="https://i.postimg.cc/pXGJGyfG/dicee-game-website-screenshot.png" width="800" alt="Dicee Game Screenshot">
 
 ## Try It Out
 Simply open the [webpage](https://yutongxie58.github.io/dicee-game-website/) in your browser to play!
